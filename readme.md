@@ -1,5 +1,11 @@
 This app is live @ https://iamshubhamjangle.github.io/react-with-reduxtoolkit/
 
+## Run the project
+
+```
+>> npm run dev
+```
+
 ## Deploy
 
 ```js
